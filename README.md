@@ -3,5 +3,5 @@
 Learning how to use gitKraken.  
 
 Change 1.  
-Change 2.   
-
+Change 2.  
+No Errors message
